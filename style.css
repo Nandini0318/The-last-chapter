@@ -10,8 +10,8 @@ body{
 .navbar-nav a{
     margin-left: 20%;
 }
-.carouselslide{
-    background: url(images/background.jpg);
+.carousel-slide{
+    background-image: url(images/background.jpg);
 }
 
 
