@@ -13,6 +13,33 @@ body{
 .carousel-slide{
     background-image: url(images/background.jpg);
 }
+.nav{
+    background-color: black;
+
+}
+.center{
+    margin-left: 15%;
+    margin-top: 5%;
+
+}
+.center h3{
+    margin-left: 30%;
+}
+.center p{
+    margin-top: 2%;
+    margin-left: 23%;
+    font-size: 19px;
+    font-style: italics;
+    
+}
+.btn{
+    margin-left: 45%;
+    margin-top: 5%;
+}
+.container{
+    margin-top: 10%;
+}
+
 
 
 
