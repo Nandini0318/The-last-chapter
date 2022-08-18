@@ -10,9 +10,7 @@ body{
 .navbar-nav a{
     margin-left: 20%;
 }
-.carousel-slide{
-    background-image: url(images/background.jpg);
-}
+
 .nav{
     background-color: black;
 
